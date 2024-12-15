@@ -11,7 +11,7 @@
 
 
 [![Paper](http://img.shields.io/badge/Paper-arxiv.svg)](https://github.com/yxt7979/Style-Talker)
-<a href="https://github.com/yxt7979/Style-Talker"><img alt="page" src="https://img.shields.io/badge/Webpage-0054a6?logo=Google%20chrome&logoColor=white"></a>
+<a href=" https://yxt7979.github.io/Style-Talker"><img alt="page" src="https://img.shields.io/badge/Webpage-0054a6?logo=Google%20chrome&logoColor=white"></a>
 
 <img src="./docs/static/first_paper.png">
   
