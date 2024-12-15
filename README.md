@@ -6,7 +6,7 @@
 <a href="https://yukangcao.github.io/">Yukang Cao</a><sup>†</sup>,
 <a href="">Junli Deng</a>,
 <a href="https://zhaoxinf.github.io/">Zhaoxin Fan</a>,
-<a href="https://www.kaihan.org/">Kai Han*</a><sup>\*</sup>,
+<a href="https://www.kaihan.org/">Kai Han</a><sup>\*</sup>,
 <a href="https://i.cs.hku.hk/~kykwong/">Kwan-Yee K. Wong</a><sup>\*</sup>,
 
 
