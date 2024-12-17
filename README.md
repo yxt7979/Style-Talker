@@ -25,7 +25,7 @@ We introduce **StyleTalker**, a text-guided method for editing and animating dyn
     To overcome these challenges, we propose StyleTalker with two key innovations:
     1) A **mesh-enhanced 3D Gaussian reconstruction** that combines 3D head priors with multi-view video diffusion, improving the accuracy and flexibility of the reconstruction process.
     2) A **landmark-driven talking head editing** method that uses 3D facial landmarks to guide the editing process. By adjusting the strength of the edits based on the distance to these landmarks, our method ensures that the avatar's original identity is preserved while achieving the requested editing.
-    Our extensive experiments demonstrate that \OMO outperforms current state-of-the-art methods, delivering high-quality edits and enabling the animation of avatars with diverse facial expressions, all based on a single-source video.
+    Our extensive experiments demonstrate that StyleTalker outperforms current state-of-the-art methods, delivering high-quality edits and enabling the animation of avatars with diverse facial expressions, all based on a single-source video.
 ## Pipeline
 StyleTalker takes as input a monocular video and text prompts to edit dynamic 3D scenes represented by 3D Gaussian splitting. **(1)** we first integrate both 3D head prior and multi-view video diffusion model (V3D) to reconstruct the detailed 3D Gaussian head. **(2)** We propose a weighted loss related to edit strength b and the 3D facial landmarks, effectively achieve local editing while maintaining the original character identity.
 
